@@ -3,6 +3,10 @@
 ## Introduction
 I have designed and implemented an online real-time collaborative text editor. This type of software enables multiple users on different machines to edit the same document simultaneously, similar to popular tools like Google Docs.
 
+## Demo
+
+https://github.com/user-attachments/assets/5ea69a1d-32ee-4533-a132-d8aaa3b0623a
+
 ## Features
 
 ### User Management
